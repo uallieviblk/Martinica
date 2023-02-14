@@ -11,6 +11,10 @@
  by dlf (Metodo2 srl)
  modified 31 May 2012
  by Tom Igoe
+ 
+ *  modified on: Feb 14, 2023
+ *      Author: umberto@blackiot.ch
+ 
  */
 #include <SPI.h>
 #include <WiFi101.h>

@@ -56,6 +56,10 @@
 * on your smartphone. Put your smartphone near the tag, you can read it. You can
 * write a tag with this app.
  ******************************************************************************
+ 
+ *  Modified on: Feb 14, 2023
+ *      Author: umberto@blackiot.ch
+ 
  */
 
 #include <Wire.h>

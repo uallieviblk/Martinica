@@ -1,4 +1,8 @@
-/*  
+/*
+ * WiFiDemoApplication.h
+ *
+ *  Created on: Feb 14, 2023
+ *      Author: umberto@blackiot.ch
  */
 #include <SPI.h>
 #include <WiFi101.h>

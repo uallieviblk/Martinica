@@ -7,6 +7,10 @@
  *
  * Created 29 July 2015 by Cristian Maglie
  * This code is in the public domain.
+ *
+ *  Modified on: Feb 14, 2023
+ *      Author: umberto@blackiot.ch
+
  */
 #include <SPI.h>
 #include <WiFi101.h>

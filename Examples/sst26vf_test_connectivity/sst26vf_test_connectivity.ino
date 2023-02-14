@@ -1,3 +1,8 @@
+/*
+ *  Created on: Feb 14, 2023
+ *      Author: umberto@blackiot.ch
+*/
+
 #include <sst26vf_driver.h>
 
 const uint8_t enable_pin = SS2;
